@@ -1,3 +1,3 @@
 function DoSomething() {
-  console.log("did something");
+  console.log("did something 2");
 }
