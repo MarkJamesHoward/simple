@@ -1,6 +1,6 @@
 {
-  "name": "@ashotofcode/simple2",
-  "version": "0.0.5",
+  "name": "@ashotofcode/simple",
+  "version": "0.0.6",
   "description": "simple library",
   "main": "index.js",
   "scripts": {

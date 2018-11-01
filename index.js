@@ -1,3 +1,3 @@
 export function DoSomething() {
-  console.log("did something 3");
+  console.log("did something5");
 }
